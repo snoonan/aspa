@@ -20,7 +20,13 @@
 }
 
 .name {
-  font-size: 3em;
+  font-size: 2em;
+  text-align: center;
+  grid-column: span 2;
+}
+
+.score {
+  font-size: 5em;
   text-align: center;
   grid-column: span 2;
 }
